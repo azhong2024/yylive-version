@@ -1,5 +1,6 @@
 {
   "version": "1.2.0",
-  "changelog": "Thêm tính năng thuê OTP, sửa lỗi không đọc được mail.",
-  "download_url": "https://example.com/yylive-setup-v1.2.0.exe"
+  "changelog": "Thêm tính năng thuê OTP, sửa lỗi không đọc được mail .",
+  "download_url": "https://github.com/azhong2024/yylive-version/releases/download/v1.2.0/yylive-setup-v1.2.0.exe
+"
 }
